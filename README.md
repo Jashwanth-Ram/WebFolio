@@ -1,5 +1,5 @@
 ### WebFolio
-Webfolio is a Next.js application that enables users to create a single-page portfolio showcasing their projects or social profiles. Each card within the portfolio tracks the number of visits and can be rearranged via drag and drop. Users can customize their portfolio page with various themes and detailed personal information.
+Webfolio is a Next.js application that enables users to create a single-page portfolio showcasing their projects or social profiles. Each project/social profile within the portfolio maintain track of visits(clicks) and can be rearranged via drag and drop. Users can customize their portfolio page with various themes and detailed personal information.
 
 ### Note
 
