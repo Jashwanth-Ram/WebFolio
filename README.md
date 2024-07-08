@@ -3,7 +3,7 @@ Webfolio is a Next.js application that enables users to create a single-page por
 
 ### Note
 
-1.After successful authentication , append /admin to url to view page.
+1.After successful authentication , append /admin to url to view homempage.<br>
 2.To view the portfolio , append /"yourusername" to url.
 
 ### Features
